@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Symbbad</title>
-    <link>https://symbbad.github.io/tags/</link>
+    <link>https://blog.symbbad.com/tags/</link>
     <description>Recent content in Tags on Symbbad</description>
     <image>
       <title>Symbbad</title>
-      <url>https://symbbad.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://symbbad.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://blog.symbbad.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.symbbad.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <atom:link href="https://symbbad.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.symbbad.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
